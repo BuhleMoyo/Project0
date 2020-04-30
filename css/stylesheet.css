@@ -1,0 +1,131 @@
+
+@media (min-width: 300px) {
+	.box5 h1::before {
+		content: "The Athletic One";
+	}
+}
+@media (max-width: 699px) {
+	.box5 h1::before {
+		content: "Athlete";
+	}
+}
+body{
+			background-color: black;
+
+}
+.container{
+	background-color: black;
+
+}
+
+.block{
+	float:left;
+	width: 50%;
+	padding: 10px;
+	box-sizing: border-box;
+	
+	
+}
+
+
+.box1 h1{
+	font-weight: 900;
+	font-size: 80px;
+	text-shadow: 5px;
+	text-transform: uppercase;
+	color: #333;
+	background-color: lightgray;
+	border-radius: 50px;
+	padding: 10px;
+	
+}
+
+.box1 p{
+	font-family: Lucida calligraphy, Arial;
+	text-align: right;
+	color: #fff;
+	padding-right: 40px;
+}
+
+.box1 h3{
+	font-family: Tahoma;
+	font-weight: 700;
+	font-size: 40px;
+	font-style: italic;
+	text-transform: lowercase;
+	letter-spacing: 0.1em;
+	word-spacing: 0.5em;
+	color: blue;
+	margin: 5px;
+}
+
+
+
+.box2 li{
+	font-size: 50px;
+	list-style: none;
+	padding-bottom: 18px;
+	text-align: center;
+}
+
+
+.box3 img{
+	border-radius: 400px;
+
+}
+
+.box3 p{
+	color: #333;
+	font-family: lucida calligraphy, sans serif;
+	size: 90px;
+	font-size: 30px;
+	padding: 15px;
+	text-align: center;
+}
+
+.box3 h2{
+	color: white;
+
+}
+
+
+.box4 h1{
+	font-weight: 900;
+	font-size: 90px;
+	text-shadow: 5%;
+	text-transform: uppercase;
+	color: darkred;
+	padding: 10px;
+}
+
+.box5 h1{
+	color: darkblue;
+	font-weight: 900;
+	font-size: 40px;
+	padding: 10px;
+}
+
+.box5 img{
+	border-radius: 40px;
+}
+
+.links {
+
+	text-align: center;
+}
+.box5 th,td{
+	color: #333;
+	
+}
+.box6 {
+	color: #333;
+	padding: 10px;
+	margin: 10px;
+	background-color: gray;
+	border-radius: 15px;
+	font-family: lucida calligraphy, Arial,sans serif;
+	font-size: 50px;
+}
+body h5{
+	color: white;
+}
