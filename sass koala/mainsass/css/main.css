@@ -7,8 +7,8 @@
     padding: 20px;
     text-align: center; }
     .content #p-1 .primary-link {
-      color: black;
-      background: mintcream; }
+      color: white;
+      background: linear-gradient(blue, white); }
 
 nav ul {
   margin: 0;
